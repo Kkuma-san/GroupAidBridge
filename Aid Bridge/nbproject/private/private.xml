@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/AddToCartServlet.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/user-home.jsp</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/model/DBConnection.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/model/Booking.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/register.jsp</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/LoginServlet.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/css/user-home.css</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/login.jsp</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/BookingHistoryServlet.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/model/Product.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/logout.jsp</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/WEB-INF/web.xml</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/BookingServlet.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/RegisterServlet.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/model/CartItem.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/model/ProductDAO.java</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/booking-history-view.jsp</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/web/cart.jsp</file>
+            <file>file:/D:/UITM%20FARIS/Sem%204%20-%20CSC584%20-%20ENTERPRISE%20PROGRAMMING/Group%20project/Aid%20Bridge/src/java/model/BookingDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
